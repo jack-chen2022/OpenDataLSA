@@ -1,0 +1,3 @@
+C:\Users\chengjack\source\repos\SQLServerDemo\SQLServerDemo\obj\Any CPU\Debug\SQLServerDemo.pyproj.CoreCompileInputs.cache
+C:\Users\chengjack\source\repos\SQLServerDemo(OK)\SQLServerDemo\obj\Any CPU\Debug\SQLServerDemo.pyproj.CoreCompileInputs.cache
+C:\Users\chengjack\source\repos\OPENDataSQLServerAPI\SQLServerDemo\obj\Any CPU\Debug\SQLServerDemo.pyproj.CoreCompileInputs.cache

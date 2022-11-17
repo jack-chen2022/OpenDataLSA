@@ -1,0 +1,1 @@
+C:\Users\chengjack\source\repos\OPENDataSQLServerAPI\SQLServerDemo\obj\Any CPU\Debug\OpenDadaGrabWeb.pyproj.CoreCompileInputs.cache
